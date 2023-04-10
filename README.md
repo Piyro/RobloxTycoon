@@ -25,3 +25,10 @@ I would love to hear your feedback and ideas as I develop my game. If you are in
 
 Thank you for your support, and I can't wait to share my game with you!```
 
+
+## My Development Progress/
+
+
+![Example GIF](gifs/ConveyorGif.gif)
+
+

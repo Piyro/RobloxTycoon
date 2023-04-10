@@ -30,6 +30,7 @@ Thank you for your support, and I can't wait to share my game with you!```
 
 
 ![ConveyorGif](gifs/ConveyorGif.gif)
+
 ![OverviewGif](gifs/TycoonOverview.gif)
 
 

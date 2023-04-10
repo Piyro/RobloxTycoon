@@ -29,6 +29,9 @@ Thank you for your support, and I can't wait to share my game with you!```
 ## My Development Progress/
 
 
-![Example GIF](gifs/ConveyorGif.gif)
+![ConveyorGif](gifs/ConveyorGif.gif)
+![OverviewGif](gifs/TycoonOverview.gif)
+
+
 
 

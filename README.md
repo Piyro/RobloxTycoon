@@ -34,5 +34,10 @@ Thank you for your support, and I can't wait to share my game with you!```
 ![OverviewGif](gifs/TycoonOverview.gif)
 
 
+<h1 style="font-size: 20px;">Some changes-</h1>
+Owner Door (This door doesn't let anybody let trought to your tycoon)
+Server System (Tycoon can hold up to 6 players)
+
+
 
 

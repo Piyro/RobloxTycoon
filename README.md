@@ -36,7 +36,7 @@ Thank you for your support, and I can't wait to share my game with you!```
 
 <h1 style="font-size: 20px;">Some changes-</h1>
 Owner Door (This door doesn't let anybody let trought to your tycoon)<br>
-Server System (Tycoon can hold up to 6 players)<br>
+Server System (That can hold up to 6 players)<br>
 Purchase Button<br>
 
 
